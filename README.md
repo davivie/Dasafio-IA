@@ -16,6 +16,7 @@ Utilizei o ChatGpt para criar uma historia cativante e com isso explorar a cria�
 O e-book apresentou uma historia supreedente, relacionei a tematica do paradoxo de Fermi
 
 [LINK PARA O E-BOOK AQUI](file:///C:/AngularProject/%C3%81rea%20de%20Trabalho/Desafio%20IA/exemplos/Paradoxo%20de%20Fermi.pdf)
+file:///C:/AngularProject/%C3%81rea%20de%20Trabalho/Desafio%20IA/exemplos/Paradoxo%20de%20Fermi.pdf
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
